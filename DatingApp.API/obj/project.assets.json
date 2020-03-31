@@ -7230,11 +7230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steven\\Desktop\\learning2\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\steven\\Desktop\\JwtAuth\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "C:\\Users\\steven\\Desktop\\learning2\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\steven\\Desktop\\JwtAuth\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\steven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steven\\Desktop\\learning2\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\steven\\Desktop\\JwtAuth\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
